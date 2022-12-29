@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Abdalrzakalsouki/Frontend-Mentor---Interactive-rating-component-solution)
+- Solution URL: (https://www.frontendmentor.io/solutions/interactive-rating-component--SkMT0zvFK)
 - Live Site URL: (https://interactive-rating-component-lc9f.onrender.com)
 
 ## My process
